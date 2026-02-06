@@ -234,7 +234,7 @@ src/
 | --------------------------- | ------------------------------------------------------------------ | ------------------------------------------------- |
 | **Chatbot conversationnel** | Mistral AI (mistral-small-latest)                                  | Agent temporel, temperature 0.7, max 500 tokens   |
 | **Recommandations quiz**    | Mistral AI (mistral-small-latest)                                  | Generation de texte personnalise selon les scores |
-| **Assistance au code**      | Claude Code (Claude Opus 4.6)                                      | Developpement, debug, documentation               |
+| **Assistance au code**      | Claude Code (Claude Opus 4.6 à partir du fichier sujet.md)         | Developpement, debug, documentation               |
 | **Visuels destinations**    | IA generative (NanoBanana pour les images / Kling pour les vidéos) | 3 images et 1 videos par destination              |
 
 ### Prompts IA notables
