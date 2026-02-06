@@ -4,9 +4,15 @@ Webapp immersive pour une agence de voyage temporel fictive. Explorez 3 destinat
 
 ---
 
-## 🚀 Version déployee du site web
+## 🚀 Version deployee du site web
 
 https://timetravel-agency.alexis-feron.com/
+
+---
+
+## 🔀 Depot GitHub
+
+https://github.com/alexis-feron/timetravel-agency
 
 ---
 
