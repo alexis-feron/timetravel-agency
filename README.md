@@ -344,6 +344,12 @@ Table Supabase `reservations` :
 
 ---
 
+## 🤝 Contribuer
+
+Les contributions sont les bienvenues ! Consultez le [guide de contribution](CONTRIBUTING.md) pour commencer. Ce projet est soumis a un [code de conduite](CODE_OF_CONDUCT.md) et dispose d'une [politique de securite](SECURITY.md) pour le signalement de vulnerabilites. Ce projet est distribue sous licence [MIT](LICENSE).
+
+---
+
 ## 📄 Credits
 
 - **Framework** : [Next.js](https://nextjs.org/)
