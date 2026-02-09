@@ -54,7 +54,7 @@ export async function POST(req: Request) {
     // Send confirmation email via Resend
     try {
       await getResend().emails.send({
-        from: "TimeTravel Agency <onboarding@resend.dev>",
+        from: "TimeTravel Agency <noreply@timetravel-agency.alexis-feron.com>",
         to: email,
         subject: `Confirmation de réservation — ${destination.name}`,
         html: `
