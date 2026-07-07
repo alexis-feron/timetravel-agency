@@ -21,6 +21,9 @@
     "resend": "^6.9.1",
     "tailwind-merge": "^3.4.0"
   },
+  "overrides": {
+    "postcss": "^8.5.10"
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
